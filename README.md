@@ -2,7 +2,8 @@
 
 MakersJam is a Mozilla Club committed to shaping the web through peer to peer learning, collaboration, experimentation and creation,finding new and imaginative ways to express ourselves, and having lots of fun.
 
-![alt text](https://c1.staticflickr.com/5/4182/34672482155_511da38d9d_z.jpg)
+![alt text](https://c1.staticflickr.com/5/4178/34287720100_3fd321b82a_m.jpg)
+
 
 MakersJam OnTheRoad seeks reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental approach to hands on learning. 
 MakersJam aims to make web literacy an embedded part of school curriculum and teacher/educator training.
@@ -13,11 +14,11 @@ MakersJam aims to make web literacy an embedded part of school curriculum and te
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to MakersJam! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to markshillitoe@gmail.com.
 
 ## MozSprint
 
