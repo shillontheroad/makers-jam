@@ -6,12 +6,12 @@ MakersJam is a Mozilla Club committed to shaping the web through peer to peer le
 
 ## Vision
 MakersJam OnTheRoad seeks to reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental approach to hands on learning. 
-MakersJam aims to make web literacy an embedded part of primary/elemenentary school curriculum and teacher/educator training.
+MakersJam aims to make web literacy an embedded part of primary/elementary school curriculum and teacher/educator training.
 
 ## Getting Started
 
 Welcome to MakersJam Mozilla Club OnTheRoad project. The project welcomes educators, tinkerers, librarians, museum educators, artists, designers, coders, Mozilla club leaders/participants and  parents. 
-Mozilla Club Switzerland started in January 2016. After over a year on successful experimentation, MakersJam is heading out on the road. Check out our story here at <a href="https://learningfreewheel.wordpress.com/">the learningfreewheel blog</a>.
+Mozilla Club Switzerland started in January 2016. After over a year of successful experimentation and trying to capture the fell of MozFest, MakersJam is heading out on the road. Check out our story here at <a href="https://learningfreewheel.wordpress.com/">the learningfreewheel blog</a>.
 Our club members captured the essence of the club: 
 <b>MakersJam </b>
 <i>"Mix things up that people don't normally go together to create something amazing 
