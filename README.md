@@ -1,10 +1,11 @@
-# [ Project Title ]
+## MakersJam Mozilla Club OnTheRoad
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+MakersJam is a Mozilla Club committed to shaping the web through peer to peer learning, collaboration, experimentation and creation,finding new and imaginative ways to express ourselves, and having lots of fun.
 
-[ If you have one, add your logo or an image here ]
+![alt text](https://c1.staticflickr.com/5/4182/34672482155_511da38d9d_z.jpg)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+MakersJam OnTheRoad seeks reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental approach to hands on learning. 
+MakersJam aims to make web literacy an embedded part of school curriculum and teacher/educator training.
 
 ## Getting Started
 
