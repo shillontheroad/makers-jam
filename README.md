@@ -11,7 +11,7 @@ MakersJam aims to make web literacy an embedded part of primary/elementary schoo
 ## Getting Started
 
 Welcome to MakersJam Mozilla Club OnTheRoad project. The project welcomes educators, tinkerers, librarians, museum educators, artists, designers, coders, Mozilla club leaders/participants and  parents. 
-Mozilla Club Switzerland started in January 2016. After over a year of successful experimentation and trying to capture the fell of MozFest, MakersJam is heading out on the road. Check out our story here at <a href="https://learningfreewheel.wordpress.com/">the learningfreewheel blog</a>.
+Mozilla Club Switzerland started in January 2016. After over a year of successful experimentation and trying to capture the spirit of MozFest, MakersJam is heading out on the road. Check out our story here at <a href="https://learningfreewheel.wordpress.com/">the learningfreewheel blog</a>.
 Our club members captured the essence of the club: 
 <b>MakersJam </b>
 <i>"Mix things up that people don't normally go together to create something amazing 
@@ -22,6 +22,7 @@ that people don't normally associate together."</i>
 ## Contributing
 
 Thanks for your interest in contributing to MakersJam! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+<a href="https://learning.mozilla.org/en-US/web-literacy">Web Literacy Map</a>
 
 ## Participation Guidelines
 
