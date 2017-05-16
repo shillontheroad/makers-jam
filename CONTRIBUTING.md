@@ -1,14 +1,12 @@
-# Contributing to [Project]
+# Contributing to MakersJam OnTheRoad
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
-
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
-
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+Thank you for your interest in contributing to MakersJam on the road :tada:! 
+This document provides a set of guidelines for contributing to MakersJam on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved, to understand the vision and how you can support the project.
+To get started I have created a central idea with four lines of inquiry. To develop these lines of inquiry there is a series of essential questions detailed.
+# Project vision.
+MakersJam is a tactile approach to developing Web Literacy skills
+# Central Idea
+Developing Web Literacy skills is central to primary/elementary school curriculum
 
 If your guide is long, consider adding a table of contents.
 
@@ -23,6 +21,18 @@ If your guide is long, consider adding a table of contents.
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
 ## What we're working on
+
+# Lines of Inquiry
+* The development of a webmaker profile inspires, motivates and focuses the work of educators
+* Add some info on *why* people should read your contributor guidelines and *what* they are.
+* A MakersJam open kit provides a creative and tactile approach to the development of web literacy skills supporting educators build capacity for learners to write, read and participate on the web
+* A primary manifesto for web literacy in schools, raises awareness to protect the health of the open web providing a launchpad for integration a local, national and global level.
+
+# Essential Questions
+1. What are the key attributes of a webmaker?
+2. What are essential items for a MakersJam kit bag to kickstart a MakerSpace in a school?
+3. How can web literacy education be provided for trainee teachers?
+4. How can we market maker residencies to support schools grow a web maker mindset?
 
 This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
