@@ -1,5 +1,6 @@
 # Contributing to MakersJam OnTheRoad
 
+Welcome educators, tinkerers, librarians, museum educators, artists, designers, coders, Mozilla club leaders/participants, students, Mozilla/code club members and parents.
 Thank you for your interest in contributing to MakersJam on the road :tada:! 
 This document provides a set of guidelines for contributing to MakersJam on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved, to understand the vision and how you can support the project.
 To get started I have created a central idea with four lines of inquiry. To develop these lines of inquiry there is a series of essential questions detailed.
