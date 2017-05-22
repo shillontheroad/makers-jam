@@ -37,7 +37,7 @@ Developing Web Literacy skills is at the heart of primary/elementary school curr
 # We have Mozilla Clubs and Campus Clubs - What if we created a Mozilla School?
 What would it look like?
 
-Roadmap, Milestones & Projects coming soon!
+Milestones & Projects coming soon!
 
 ## How to submit changes
 
@@ -47,6 +47,12 @@ Ready to contribute? more information to follow...
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 > 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+
+Mark Surman’s three principles of open leadership:
+
+    Share decision-making. Encourage community members to participate meaningfully in the decision-making process and help shape the direction of the project.
+    Share resources. Distribute code and content widely and freely, allowing others to build on your project and maximizing its usefulness for all.
+    Invite participation. Welcome as many diverse perspectives into the community as possible, and find ways to let anyone who’s interested pitch in— your project will be better, more powerful and more useful for it.
 
 First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
