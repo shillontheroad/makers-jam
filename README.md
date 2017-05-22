@@ -1,10 +1,10 @@
 # MakersJam Mozilla Club OnTheRoad
 
-## *What if there was a Mozilla Club in every school?*
+### What if there was a Mozilla Club in every school?
 
-## *What if the Web Literacy Map was at the heart of school curriculum?*
+### What if the Web Literacy Map was at the heart of school curriculum?
 
-## *What if teacher training had web literacy as a core module?*
+### What if teacher training had web literacy as a core module?
 
 MakersJam is a Mozilla Club committed to shaping the web through peer to peer learning, collaboration, experimentation and creation,finding new and imaginative ways to express ourselves, and having lots of fun.
 
