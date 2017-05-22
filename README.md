@@ -11,7 +11,7 @@ MakersJam is a Mozilla Club committed to shaping the web through peer to peer le
 ![alt text](https://c1.staticflickr.com/5/4178/34287720100_3fd321b82a_m.jpg)
 
 ## Vision
-MakersJam OnTheRoad seeks to reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental/tactile approach to hands on learning of Web Literacy skills.
+MakersJam OnTheRoad seeks to reach a wider audience by offering Maker Educator Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental/tactile approach to hands on learning of Web Literacy skills.
 MakersJam aims to make web literacy an embedded part of primary/elementary school curriculum and teacher/educator training..
 
 ## Getting Started
