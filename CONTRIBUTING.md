@@ -2,21 +2,24 @@
 
 Welcome educators, tinkerers, librarians, museum educators, artists, designers, coders, Mozilla club leaders/participants, students, Mozilla/code club members and parents.
 Thank you for your interest in contributing to MakersJam on the road :tada:! 
+Have you noticed how engaged learners are in informal settings? Have you every wondered if extra curricular became curriculum?
+Then join the MakersJam
 This document provides a set of guidelines for contributing to MakersJam on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved, to understand the vision and how you can support the project.
+
 To get started I have created a central idea with four lines of inquiry. To develop these lines of inquiry there is a series of essential questions detailed.
 # Project vision.
+## *What if there was a Mozilla Club in every school?*
+
+## *What if the Web Literacy Map was at the heart of school curriculum?*
+
+## *What if teacher training had web literacy as a core module?*
+
 MakersJam OnTheRoad seeks to reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental/tactile approach to hands on learning of Web Literacy skills.
 MakersJam aims to make web literacy an embedded part of primary/elementary school curriculum and teacher/educator training.
-# Central Idea
-Developing Web Literacy skills is central to primary/elementary school curriculum
+## Central Idea
 
-If your guide is long, consider adding a table of contents.
+Developing Web Literacy skills is at the heart of primary/elementary school curriculum
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
 
 ## Participation guidelines
 
@@ -26,15 +29,17 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 # Lines of Inquiry
 * The development of a webmaker profile inspires, motivates and focuses the work of educators
-* Add some info on *why* people should read your contributor guidelines and *what* they are.
 * A MakersJam open kit provides a creative and tactile approach to the development of web literacy skills supporting educators build capacity for learners to write, read and participate on the web
 * A primary manifesto for web literacy in schools, raises awareness to protect the health of the open web providing a launchpad for integration a local, national and global level.
 
 # Essential Questions
 1. What are the key attributes of a webmaker?
-2. What are essential items for a MakersJam kit bag to kickstart a MakerSpace in a school?
+2. What essential items would go into a MakersJam kit bag, to kickstart a MakerSpace in a school?
 3. How can web literacy education be provided for trainee teachers?
-4. How can we market maker residencies to support schools grow a web maker mindset?
+4. How can maker educator residencies support schools grow a webmaker mindset?
+
+# We have Mozilla Clubs and Campus Clubs - What if we created a Mozilla School?
+What would it look like?
 
 Roadmap, Milestones & Projects coming soon!
 
