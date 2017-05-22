@@ -39,7 +39,7 @@ People from all backgrounds can contribute to this project. You might enjoy part
 There are lots of ways to contribute to this project that use different skills and talents. For example, you could:
     
     
-   * Invent different models and projects that would take the MakersMam into schools.
+   * Invent different models and projects that would take the MakersJam into schools.
    
    * Try different tactile approaches and think of how to map them the web literacy map.
     
