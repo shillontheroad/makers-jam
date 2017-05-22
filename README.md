@@ -1,4 +1,10 @@
-## MakersJam Mozilla Club OnTheRoad
+# MakersJam Mozilla Club OnTheRoad
+
+## *What if there was a Mozilla Club in every school?*
+
+## *What if the Web Literacy Map was at the heart of school curriculum?*
+
+## *What if teacher training had web literacy as a core module?*
 
 MakersJam is a Mozilla Club committed to shaping the web through peer to peer learning, collaboration, experimentation and creation,finding new and imaginative ways to express ourselves, and having lots of fun.
 
@@ -12,17 +18,18 @@ MakersJam aims to make web literacy an embedded part of primary/elementary schoo
 
 Welcome to MakersJam Mozilla Club OnTheRoad project. The project welcomes educators, tinkerers, librarians, museum educators, artists, designers, coders, Mozilla club leaders/participants and  parents. 
 Mozilla Club Switzerland started in January 2016. After over a year of successful experimentation and trying to capture the spirit of MozFest, MakersJam is heading out on the road. Check out our story here at <a href="https://learningfreewheel.wordpress.com/">the learningfreewheel blog</a>.
-Our club members captured the essence of the club: 
+Our club members captured the essence of the club:
+
 <b>MakersJam </b>
 <i>"Mix things up that people don't normally go together to create something amazing 
 that people don't normally associate together."</i>
+
 <b>The Jam</b>
 <i>"The freedom to play whatever you feel like playing by listening to others"</i>
 
 ## Contributing
-
-Thanks for your interest in contributing to MakersJam! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
-<a href="https://learning.mozilla.org/en-US/web-literacy">Web Literacy Map</a>
+Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can contribute to the MakersJam!
+Let's create a manifesto for making <a href="https://learning.mozilla.org/en-US/web-literacy">Web Literacy Map</a> part of school curriculum.
 
 ## Participation Guidelines
 
