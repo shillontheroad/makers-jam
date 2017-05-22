@@ -28,12 +28,35 @@ that people don't normally associate together."</i>
 <i>"The freedom to play whatever you feel like playing by listening to others"</i>
 
 ## Contributing
-Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can contribute to the MakersJam!
+People from all backgrounds can contribute to this project. You might enjoy participating if you:
+  * Love to tinker.
+  * Love to connect seemingly random ideas.
+  * Love to teach.
+  * Love to learn visually or in a tactile way.
+  * Love to code.
+  * Love the MozFest experience.
+
+There are lots of ways to contribute to this project that use different skills and talents. For example, you could:
+    
+    
+   * Invent different models and projects that would take the MakersMam into schools.
+   
+   * Try different tactile approaches and think of how to map them the web literacy map.
+    
+   * Help create a repository of open and shareable resources that would be useful to others with little to no coding background looking to create a MakerSpace and embed web literacy in their classroom.
+    
+   * Write lesson plans, facilitation guides or recipes for the classroom or informal learning spaces.
+    
+   * Sequence Web Literacy lessons with other subject areas (i.e. XRay Goggles in Language Arts)
+    
+   * Create online text or video explainers and tutorials about MakersJam.
+
+Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) to learn more about how to contribute to the MakersJam!
 Let's create a manifesto for making <a href="https://learning.mozilla.org/en-US/web-literacy">Web Literacy Map</a> part of school curriculum.
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to markshillitoe@gmail.com.
+Let's jam together. This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to markshillitoe@gmail.com.
 
 ## MozSprint
 
