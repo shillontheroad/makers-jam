@@ -16,14 +16,10 @@ To get started I have created a central idea with four lines of inquiry. To deve
 
 MakersJam OnTheRoad seeks to reach a wider audience by offering Maker Residencies in schools and informal learning spaces, supporting them to kickstart their MakerSpaces, grow professional learning opportunities and develop an experimental/tactile approach to hands on learning of Web Literacy skills.
 MakersJam aims to make web literacy an embedded part of primary/elementary school curriculum and teacher/educator training.
-## Central Idea
+
+# Central Idea
 
 Developing Web Literacy skills is at the heart of primary/elementary school curriculum
-
-
-## Participation guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
 ## What we're working on
 
