@@ -1,0 +1,7 @@
+- **May, 2017:** Collect ideas, gather resources, create collaborative workspaces.
+- **June 1-2, 2017:** During the sprint, brainstorm, research, draft, and test ideas that support Maker Educator Residencies as part of school curriculum
+- **June, 2017:** Curate and share exemplar projects online as an Intro to MakersJam Maker Educator Residencies.
+- **Summer, 2017:** Continue to build out ideas. Submit session proposals for MozFest about connections between web literacy, open education and tinkering in a school environment.
+- **Summer, 2017:** Create the first MakersJam Kit - a kickstart kit for school MakerSpaces.
+- **Fall, 2017:** Community members contact schools for potential maker educator residencies. A place to test lesson plans and curriculum modules in the classroom.
+- **Fall, 2018:** The first model for a Mozilla School is presented to community members at MozFest
